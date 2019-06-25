@@ -1,26 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Not User\\source\\repos\\quintanillach\\GroupTooSurveys\\GroupTooUniversity\\GroupTooUniversity\\GroupTooUniversity.csproj": {}
+    "C:\\Users\\JH\\source\\repos\\GroupTooSurveys\\GroupTooUniversity\\GroupTooUniversity\\GroupTooUniversity.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Not User\\source\\repos\\quintanillach\\GroupTooSurveys\\GroupTooUniversity\\GroupTooUniversity\\GroupTooUniversity.csproj": {
+    "C:\\Users\\JH\\source\\repos\\GroupTooSurveys\\GroupTooUniversity\\GroupTooUniversity\\GroupTooUniversity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Not User\\source\\repos\\quintanillach\\GroupTooSurveys\\GroupTooUniversity\\GroupTooUniversity\\GroupTooUniversity.csproj",
+        "projectUniqueName": "C:\\Users\\JH\\source\\repos\\GroupTooSurveys\\GroupTooUniversity\\GroupTooUniversity\\GroupTooUniversity.csproj",
         "projectName": "GroupTooUniversity",
-        "projectPath": "C:\\Users\\Not User\\source\\repos\\quintanillach\\GroupTooSurveys\\GroupTooUniversity\\GroupTooUniversity\\GroupTooUniversity.csproj",
-        "packagesPath": "C:\\Users\\Not User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Not User\\source\\repos\\quintanillach\\GroupTooSurveys\\GroupTooUniversity\\GroupTooUniversity\\obj\\",
+        "projectPath": "C:\\Users\\JH\\source\\repos\\GroupTooSurveys\\GroupTooUniversity\\GroupTooUniversity\\GroupTooUniversity.csproj",
+        "packagesPath": "C:\\Users\\JH\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\JH\\source\\repos\\GroupTooSurveys\\GroupTooUniversity\\GroupTooUniversity\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Not User\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\JH\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"
